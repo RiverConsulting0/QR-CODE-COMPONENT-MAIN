@@ -1,0 +1,64 @@
+
+@font-face {
+    font-family: "Outfit-ExtraBold";
+    src: url(/fonts/Outfit-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: "Outfit-Medium";
+    src: url(/fonts/Outfit-Medium.ttf);
+}
+
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+    max-width: 400px;
+  }
+
+.qr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.qr img {
+    max-width: 100%;
+    max-height: 100%;
+    width: 360px;
+    border-radius: 15px;
+    margin: 20px
+  }
+
+.text {
+    text-align: center;
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 35px;
+    
+}
+
+h1 {
+    font-family: "Outfit-ExtraBold";
+    font-weight: 700;
+    color: black;
+    font-size: 26px;
+    color: hsl(218, 44%, 22%);
+  }
+
+p {
+    font-family: "Outfit-Medium";
+    font-weight: 400;
+    font-size: 18px;
+    color: hsl(220, 15%, 55%);
+  }
