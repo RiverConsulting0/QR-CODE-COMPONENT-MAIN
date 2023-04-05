@@ -1,12 +1,12 @@
 
 @font-face {
     font-family: "Outfit-ExtraBold";
-    src: url(/fonts/Outfit-ExtraBold.ttf);
+    src: url(./fonts/Outfit-ExtraBold.ttf);
 }
 
 @font-face {
     font-family: "Outfit-Medium";
-    src: url(/fonts/Outfit-Medium.ttf);
+    src: url(./fonts/Outfit-Medium.ttf);
 }
 
 
