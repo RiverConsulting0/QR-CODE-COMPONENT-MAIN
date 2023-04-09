@@ -1,11 +1,11 @@
 
 @font-face {
-    font-family: "outfit-extrabold";
+    font-family: "Outfit-ExtraBold";
     src: url(fonts/Outfit-ExtraBold.ttf);
 }
 
 @font-face {
-    font-family: "outfit-medium";
+    font-family: "Outfit-Medium";
     src: url(fonts/Outfit-Medium.ttf);
 }
 
@@ -53,7 +53,7 @@ body {
 }
 
 h1 {
-    font-family: "outfit-extrabold";
+    font-family: "Outfit-ExtraBold";
     font-weight: 700;
     color: black;
     font-size: 24px;
@@ -61,7 +61,7 @@ h1 {
   }
 
 p {
-    font-family: "outfit-medium";
+    font-family: "Outfit-Medium";
     font-weight: 400;
     font-size: 16px;
     color: hsl(220, 15%, 55%);
